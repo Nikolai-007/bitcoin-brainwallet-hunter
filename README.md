@@ -44,8 +44,13 @@ This project is for EDUCATIONAL PURPOSES ONLY. Do not use for unauthorized acces
 
 Donation for the project:
 XRP rP72MmEhU1mS21FidokY1s6D2sAJcpS4Ao
+
 BNB 0x2c5583D31a1CaB7105420535fc35399b522A80ce
+
 ETH 0x2c5583D31a1CaB7105420535fc35399b522A80ce
+
 BTC bc1quwt6nnfxlgssf828jxgtk9zaay64rzgqdjcvet
+
 TON UQCqxKpopYu1utl7aGce2B-3lQOpKbJ2djstIhUv_QeDSdmE
+
 TRX TH9GsEkYTCvNHtHsA3YWz31roTts3msW2Z
