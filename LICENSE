@@ -1,6 +1,83 @@
 MIT License
-
+BITCOIN BRAINWALLET HUNTER - EDUCATIONAL SOFTWARE LICENSE
+Copyright (c) 2024 Bitcoin Brainwallet Hunter Project
 Copyright (c) 2025 Nikolai-007
+
+THIS SOFTWARE IS PROVIDED FOR EDUCATIONAL AND RESEARCH PURPOSES ONLY.
+
+BY USING THIS SOFTWARE, YOU EXPLICITLY AGREE TO THE FOLLOWING TERMS:
+
+1. EDUCATIONAL PURPOSE
+   This software is intended solely for:
+   - Academic research and study
+   - Learning about cryptography and blockchain technology
+   - Understanding Bitcoin address generation mechanisms
+   - Security research in controlled environments
+
+2. STRICTLY PROHIBITED USES
+   You are EXPRESSLY FORBIDDEN from using this software for:
+   - Any illegal activities or unauthorized access attempts
+   - Attempting to access wallets or funds you do not own
+   - Malicious or harmful purposes
+   - Commercial exploitation without explicit permission
+   - Any activities violating applicable laws and regulations
+
+3. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+   AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+   THE SOFTWARE.
+
+4. USER RESPONSIBILITY
+   You assume FULL and COMPLETE responsibility for:
+   - How you use this software
+   - Ensuring your use complies with all applicable laws
+   - Any consequences resulting from your use of this software
+   - Proper and ethical use in educational contexts only
+
+5. LEGAL COMPLIANCE
+   You must ensure that your use of this software complies with:
+   - Local, state, national, and international laws
+   - Cryptocurrency regulations in your jurisdiction
+   - Academic integrity policies (if used in educational institutions)
+   - Ethical guidelines for security research
+
+6. ACADEMIC INTEGRITY
+   When using this software for academic purposes, you must:
+   - Cite the project appropriately in any publications or research
+   - Use only for legitimate educational and research activities
+   - Maintain high standards of academic integrity
+
+7. NO FINANCIAL ADVICE
+   This software does not constitute financial, investment, or legal advice.
+   The authors are not responsible for any financial decisions made based on
+   this software's output or capabilities.
+
+8. AGE RESTRICTION
+   You must be at least 18 years old, or the age of majority in your jurisdiction,
+   to use this software. If you are under this age, you may only use this software
+   under direct supervision of a qualified educational instructor.
+
+9. TERMINATION
+   Your license to use this software automatically terminates if you violate
+   any of these terms. Upon termination, you must immediately cease all use
+   and destroy any copies of the software in your possession.
+
+10. GOVERNING LAW
+    This license shall be governed by and interpreted in accordance with the
+    laws of the jurisdiction where the software is used, with preference given
+    to jurisdictions with strong educational and research protections.
+
+ACCEPTANCE OF TERMS
+By using, copying, modifying, or distributing this software, you acknowledge
+that you have read this license, understand it, and agree to be bound by its
+terms and conditions. If you do not agree to these terms, do not use this
+software.
+
+For questions about appropriate use, contact: [Your Educational Institution's Ethics Board]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
