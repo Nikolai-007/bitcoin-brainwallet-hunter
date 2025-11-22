@@ -18,12 +18,19 @@ Explicit user acceptance - must type "I ACCEPT" to proceed
 Educational purpose emphasis throughout the acceptance process
 
 Legal Protection Features
+
 ✅ Mandatory acceptance before software runs
+
 ✅ Clear educational purpose declaration
+
 ✅ Explicit prohibition of illegal activities
+
 ✅ User responsibility acknowledgment
+
 ✅ Legal compliance requirements
+
 ✅ Academic integrity emphasis
+
 
 📚 Educational Focus
 Study Bitcoin address generation mechanisms
