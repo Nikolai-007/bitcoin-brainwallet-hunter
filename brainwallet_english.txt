@@ -1,0 +1,16 @@
+bitcoin
+crypto
+wallet
+password
+secret
+key
+mining
+blockchain
+money
+digital
+currency
+private
+public
+address
+seed
+phrase

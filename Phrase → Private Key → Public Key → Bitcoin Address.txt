@@ -1,0 +1,15 @@
+
+## Key Algorithms
+- SHA-256 for private key generation
+- secp256k1 for public key derivation  
+- RIPEMD-160 for address hashing
+- Base58Check for encoding
+
+## Address Types
+1. Legacy (P2PKH) - starts with 1
+2. SegWit (P2SH) - starts with 3
+
+## Multi-threading
+- Generator workers create phrases
+- Checker workers verify balances
+- Queue for inter-thread communication

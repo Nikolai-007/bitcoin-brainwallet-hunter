@@ -1,0 +1,19 @@
+bitcoin-brainwallet-hunter/
+├── Project Structure.txt
+├── README.md
+├── README.txt
+├── requirements.txt
+├── config.py
+├── bitcoin_hunter.py
+├── ACCEPTANCE_REQUIRED.py
+├── brainwallet_english.txt
+├── Phrase → Private Key → Public Key → Bitcoin Address.txt
+├── Installation.sh
+├── License.txt
+├── TERMS_OF_USE.txt
+├── TERMS_OF_USE.md
+├── docs/
+│   ├── MECHANISM.md
+│   └── SECURITY.md
+└── examples/
+    └── basic_usage.py
